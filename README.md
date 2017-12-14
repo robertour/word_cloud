@@ -54,6 +54,8 @@ For Python 2.*
 For Python 3.*
 
 	sudo apt-get install python3-dev
+	# or for a specific Python version:
+	# sudo apt-get install python3.6-dev
 	
 ##### CentOS / RHEL
 
